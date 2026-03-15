@@ -41,7 +41,7 @@ export default function Home() {
         <Navbar/>
 
       {/* ─── Hero ────────────────────────────────────────────────── */}
-      <section className="relative h-screen flex items-center justify-center bg-gradient-to-br from-emerald-50 via-white to-teal-50">
+      <section className="relative h-screen pt-28 md:pt-0 flex items-center justify-center bg-gradient-to-br from-emerald-50 via-white to-teal-50">
         <div className="absolute right-180 top-100 h-[70%] w-[50%] hidden lg:block">
   <Image
     src="/images/hero1.png"
